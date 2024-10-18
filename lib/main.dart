@@ -25,7 +25,7 @@ class AnimalSounds extends StatelessWidget {
 
   void playSound(String name) {
     final AudioPlayer player = AudioPlayer();
-    player.play(AssetSource("$name.wave"));
+    player.play(AssetSource("$name.wav"));
   }
 
   @override
