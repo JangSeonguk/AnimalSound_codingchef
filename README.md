@@ -15,3 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # AnimalSound_codingchef
+외부 패키지 lottie 사용
+Row, Column위젯을 사용하여 레이아웃 구조 학습
