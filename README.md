@@ -16,8 +16,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # AnimalSound_codingchef
 
-Applying the external package 'Lottie, Audio player'.
-Learn Flutter App layout structure using Row, Column widgets
-Applied the 'GestureDetector - ontap' widget.
+Applying the external package 'Lottie, Audio player'.  
+Learn Flutter App layout structure using Row, Column widgets  
+Applied the 'GestureDetector - ontap' widget.  
 
 ![ScreenShot](images/screenshot.png)
