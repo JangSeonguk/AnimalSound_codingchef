@@ -15,5 +15,9 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # AnimalSound_codingchef
-외부 패키지 lottie 사용
-Row, Column위젯을 사용하여 레이아웃 구조 학습
+
+Applying the external package 'Lottie, Audio player'.
+Learn Flutter App layout structure using Row, Column widgets
+Applied the 'GestureDetector - ontap' widget.
+
+![ScreenShot](images/screenshot.png)
